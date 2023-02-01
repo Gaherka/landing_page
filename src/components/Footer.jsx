@@ -22,10 +22,13 @@ function Footer() {
                     <FaLinkedin />
                 </div>
             </div>
+            {/* LOGO */}
+            <link to= "/" className='col-12 col-md3 d-flex aling-items-center justify-content-center'
+            img src="../img/MuzicLogo.png" />
+            <link />
             {/* detail */}
             <span className="text-[1rem] text-gray-400 px-[15rem] text-center mt-[4rem]">
-                Duis feugiat congue metus, ultrices vulputate nibh viverra eget.
-                Vestibulum ullamcorper volutpat varius.
+                Kdos Corporate
             </span>
         </div>
     )
