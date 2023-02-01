@@ -45,20 +45,19 @@ function Hero() {
             <div className="wrapper bg-[#081730] flex items-center justify-between px-[5rem] rounded-b-[5rem] w-[100%] h-[35rem] relative z-[3]">
                 {/* left side */}
                 <div className="headings flex flex-col items-start justify-center h-[100%] text-[3rem]">
-                <span>Experience The</span>{" "}
+                <span>Una experiencia inigualable en:</span>{" "}
                 <span>
-                    <b>Best Quality Music</b>
+                    <b>KDOS MUSIC</b>
                 </span>
                 <span className="text-[15px] text-[#525D6E]">
-                    Donec laoreet nec velit vitae aliquam. Ut quis tincidunt purus.
+                 Te brinda acceso a más de 90 millones de canciones de todo el mundo y 
                     <br />
-                    Suspendisse in leo non risus tincidunt lobortis.
+                    otras experiencias de audio como podcasts.
+                    <br />
+                    También obtienes recomendaciones personalizadas y contenido exclusivo
                 </span>
                 {/* download ads */}
-                <div>
-                    <span className="text-[13px]">Download now on IOS and Android</span>
-                    <DownloadAds />
-                </div>
+               
                 </div>
                 {/* right side */}
                 <div className="images relative w-[50%]">

@@ -1,0 +1,17 @@
+.card{
+background-color: black;
+text-decoration-color: black;
+padding: 1rem;
+margin: 1rem;
+
+border-color: blueviolet;
+}
+.container{
+    padding: 1rem;
+    margin: 1rem;
+    justify-items: center;
+}
+.row{
+    padding: 1rem;
+    margin: 1rem; 
+}

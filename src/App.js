@@ -1,9 +1,9 @@
 import './App.css';
-import Download from './components/Download';
 import Experience from './components/Experience';
 import Footer from './components/Footer';
 import Header from './components/Header';
 import Hero from './components/Hero';
+import Planes from './components/Plans';
 import Search from './components/Search';
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
       <Hero />
       <Experience />
       <Search />
-      <Download />
+      <Planes/>
       <Footer />
     </div>
   );
