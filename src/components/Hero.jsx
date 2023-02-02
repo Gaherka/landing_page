@@ -1,5 +1,4 @@
 import { React, useState } from "react";
-import DownloadAds from "./DownloadAds";
 import VisibilitySensor from "react-visibility-sensor";
 import { motion } from "framer-motion";
 

@@ -5,6 +5,7 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Planes from './components/Plans';
 import Search from './components/Search';
+import Desarrolladoras from './components/Desarolladoras';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Experience />
       <Search />
       <Planes/>
+      <Desarrolladoras/>
       <Footer />
     </div>
   );
