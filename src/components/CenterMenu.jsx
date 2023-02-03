@@ -10,9 +10,8 @@ function CenterMenu() {
             <li><a href="#Planes">Planes</a></li>
             <li><a href="#Desarolladoras">Desarrolladoras</a></li>
             </ul>
-
-            <div id="Acercade" className={liStyle}></div>
         </div>
+        
     )
 }
 

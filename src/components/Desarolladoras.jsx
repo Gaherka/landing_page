@@ -19,7 +19,7 @@ return(
 
             </div>
             {/* features  */}
-            <div className="desarrolladorasAvatar flex items-center justify-around mt-[6rem] w-[100%]">
+            <div className="Avatar flex items-center justify-around mt-[6rem] w-[100%]">
                 <Avatar1/>
                 <Avatar2 icon="dani-bruni" title="Facil de utilizar" />
                 <Avatar3 icon="karla-hernandez" title="Facil de utilizar" />
