@@ -3,10 +3,11 @@ import React from "react"
 
 function Card() {
     return (
-        <div className="container  d-flex justify-center ">
+        <div id="Planes" className="container  d-flex justify-center ">
             <div className="row col-md-4">
                     <div className='card '>
                     <div className='card-body'>
+                        <h3>Planes</h3>
                             <h4 className='card-title'>KDOS PREMIUM</h4>
                             <p className='card-text'>
                                 Selecciona y reproduce cualquier canción sin anuncios.
