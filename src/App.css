@@ -1,12 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
 
 .card{
-background-color: black;
+background-color: transparent;
 text-decoration-color: black;
-padding: 1rem;
-margin: 1rem;
-
+padding: 0.5rem;
+margin: 0.5rem;
 border-color: blueviolet;
+text-align: justify;
+
+}
+.card-title{
+    text-align: center;
+    font-size: 25px;
+    font-style:italic;
 }
 .container{
     padding: 1rem;
@@ -14,6 +20,11 @@ border-color: blueviolet;
     justify-items: center;
 }
 .row{
-    padding: 1rem;
-    margin: 1rem; 
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.avatar{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
