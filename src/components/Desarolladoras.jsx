@@ -12,14 +12,14 @@ return(
             <img src={require("../img/Path 318.png")} alt="" className="w-[3rem]" />
             {/* heading */}
             <div className="headline mt-7 flex flex-col items-center text-[2rem]">
-                <span>Una aplicación que puede cambiar tu día</span>
+                <span>Desarrolladoras</span>
                 <span>
                 <b></b>
                 </span>
             </div>
             {/* features  */}
             <div className="desarrolladorasAvatar flex items-center justify-around mt-[6rem] w-[100%]">
-                <Avatar1 />
+                <Avatar1/>
                 <Avatar2 icon="dani-bruni" title="Facil de utilizar" />
                 <Avatar3 icon="karla-hernandez" title="Facil de utilizar" />
                 <Avatar4 icon="lizzie-angel" title="Facil de utilizar" />

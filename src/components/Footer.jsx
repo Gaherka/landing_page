@@ -9,8 +9,8 @@ function Footer() {
            
             {/* detail */}
             <span className="text-[1rem] text-gray-400 px-[10rem] text-center mt-[4rem]">
-                Duis feugiat congue metus, ultrices vulputate nibh viverra eget.
-                Vestibulum ullamcorper volutpat varius.
+                KDOS MUSIC @2023 <br />
+                UNA EXPERIENCIA INOLVIDABLE
             </span>
         </div>
     )
