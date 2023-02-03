@@ -5,10 +5,12 @@ function CenterMenu() {
     return (
         <div className="menu flex">
             <ul className='flex w-[100%] justify-between'>
-            <li><a href="#Acercade">Acerca de</a></li>
-            <li><a href="#Ventajas">Ventajas</a></li>
-            <li><a href="#Planes">Planes</a></li>
-            <li><a href="#Desarolladoras">Desarrolladoras</a></li>
+                <li className={liStyle}>
+                    <a href='#Hero'>
+                    </a>Acerca de</li>
+                <li className={liStyle}>Ventajas</li>
+                <li className={liStyle}>Planes</li>
+                <li className={liStyle}>Desarrolladoras</li>
             </ul>
         </div>
         
