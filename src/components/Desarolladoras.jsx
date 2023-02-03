@@ -7,7 +7,7 @@ import Avatar5 from "./Avatar5";
 
 function Desarrolladoras(){
 return(
-    <div className="desarrolladoras flex flex-col items-center justify-start px-[5rem] bg-[#081730] h-[40rem] pt-[13rem] mt-[-10rem] relative z-[-1] rounded-b-[3rem]">
+    <div id="Desarrolladoras" className="desarrolladoras flex flex-col items-center justify-start px-[5rem] bg-[#081730] h-[40rem] pt-[13rem] mt-[-10rem] relative z-[-1] rounded-b-[3rem]">
             {/* icon */ }
             <img src={require("../img/Path 318.png")} alt="" className="w-[3rem]" />
             {/* heading */}
