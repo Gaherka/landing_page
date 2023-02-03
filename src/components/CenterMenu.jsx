@@ -12,8 +12,9 @@ function CenterMenu() {
                 <li className={liStyle}>Planes</li>
                 <li className={liStyle}>Desarrolladoras</li>
             </ul>
+
+            <div id="Acercade" className={liStyle}></div>
         </div>
-        
     )
 }
 
